@@ -1,0 +1,23 @@
+
+
+Version:	3.14
+CmdLine:	C:\Users\sarmad\Desktop\New Folder\clothsys.exe --l4j-debug
+WOW64:		yes
+Working dir:	C:\Users\sarmad\Desktop\New Folder\.
+Java min ver:	1.000.000
+Java max ver:	
+64-bit search:	SOFTWARE\JavaSoft\Java Runtime Environment...
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8
+Check launcher:	C:\Program Files\Java\jre1.8.0_333\bin\javaw.exe (OK)
+Match:		1.008.000
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8.0_333
+Check launcher:	C:\Program Files\Java\jre1.8.0_333\bin\javaw.exe (OK)
+Match:		1.008.000_333
+64-bit search:	SOFTWARE\JavaSoft\Java Development Kit...
+64-bit search:	SOFTWARE\JavaSoft\JRE...
+64-bit search:	SOFTWARE\JavaSoft\JDK...
+Runtime used:	1.008.000_333 (64-bit)
+Launcher:	C:\Program Files\Java\jre1.8.0_333\bin\javaw.exe
+Launcher args:	-jar "C:\Users\sarmad\Desktop\New Folder\clothsys.exe"
+Args length:	54/32768 chars
+Exit code:	0
